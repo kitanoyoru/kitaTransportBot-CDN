@@ -1,0 +1,9 @@
+{
+    "http": {
+        "production_port": 10500,
+        "debug_port": 10501,
+    },
+    "logger": {
+        "log_level": "DEBUG"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "kitaTransportBot-CDN",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/kitanoyoru/kitaTransportBot-CDN",
+  "author": "Alexandr Rutkowski",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "express-ping": "^1.4.0",
+    "routing-controllers": "^0.10.4",
+    "typedi": "^0.10.0",
+    "winston": "^3.9.0"
+  }
+}
